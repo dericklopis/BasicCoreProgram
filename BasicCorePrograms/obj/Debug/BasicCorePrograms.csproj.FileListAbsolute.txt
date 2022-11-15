@@ -1,0 +1,8 @@
+C:\Users\91910\source\repos\BasicCorePrograms\BasicCorePrograms\bin\Debug\BasicCorePrograms.exe.config
+C:\Users\91910\source\repos\BasicCorePrograms\BasicCorePrograms\bin\Debug\BasicCorePrograms.exe
+C:\Users\91910\source\repos\BasicCorePrograms\BasicCorePrograms\bin\Debug\BasicCorePrograms.pdb
+C:\Users\91910\source\repos\BasicCorePrograms\BasicCorePrograms\obj\Debug\BasicCorePrograms.csproj.AssemblyReference.cache
+C:\Users\91910\source\repos\BasicCorePrograms\BasicCorePrograms\obj\Debug\BasicCorePrograms.csproj.SuggestedBindingRedirects.cache
+C:\Users\91910\source\repos\BasicCorePrograms\BasicCorePrograms\obj\Debug\BasicCorePrograms.csproj.CoreCompileInputs.cache
+C:\Users\91910\source\repos\BasicCorePrograms\BasicCorePrograms\obj\Debug\BasicCorePrograms.exe
+C:\Users\91910\source\repos\BasicCorePrograms\BasicCorePrograms\obj\Debug\BasicCorePrograms.pdb
